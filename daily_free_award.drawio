@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T07:05:54.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ivmh149yhjv0kxqizduV" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T08:02:39.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NDVzHMIZk5pbXfr1bRoG" version="24.2.3" type="github">
   <diagram name="Page-1" id="CW4RRDtZ3Qa1tOluZkzK">
     <mxGraphModel dx="1434" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-1" target="m-QLZI3Lx8UgKaImKCGh-2">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-1" target="m-QLZI3Lx8UgKaImKCGh-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="420" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-2" target="m-QLZI3Lx8UgKaImKCGh-4">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-2" target="m-QLZI3Lx8UgKaImKCGh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-2" value="根据 UserID 从 Redis中查询今日金币领取金额" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-2" value="根据 UserID 从 Redis中查询今日金币领取金额" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="420" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-4" target="m-QLZI3Lx8UgKaImKCGh-6">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-4" target="m-QLZI3Lx8UgKaImKCGh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-4" value="根据用户渠道查询金币领取配置" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-4" value="根据用户渠道查询金币领取配置" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="420" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-9" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-6" target="m-QLZI3Lx8UgKaImKCGh-8">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-9" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-6" target="m-QLZI3Lx8UgKaImKCGh-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-12" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-6" target="m-QLZI3Lx8UgKaImKCGh-11">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-12" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-6" target="m-QLZI3Lx8UgKaImKCGh-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-6" value="用户是否为付费用户（7日内有充值）" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-6" value="用户是否为付费用户（7日内有充值）" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="545" y="510" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-14" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-8" target="m-QLZI3Lx8UgKaImKCGh-13">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-14" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-8" target="m-QLZI3Lx8UgKaImKCGh-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-18" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-8" target="m-QLZI3Lx8UgKaImKCGh-15">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-18" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-8" target="m-QLZI3Lx8UgKaImKCGh-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-8" value="用户是否为新用户（注册时间满7日）" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-8" value="用户是否为新用户（注册时间满7日）" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="545" y="710" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-11" target="m-QLZI3Lx8UgKaImKCGh-21">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-11" target="m-QLZI3Lx8UgKaImKCGh-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="570" />
@@ -48,31 +48,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-11" value="生成付费用户金币随机范围" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-11" value="生成付费用户金币随机范围" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="290" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-13" target="m-QLZI3Lx8UgKaImKCGh-21">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-13" target="m-QLZI3Lx8UgKaImKCGh-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-13" value="生成新用户金币随机范围" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-13" value="生成新用户金币随机范围" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="290" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-15" target="m-QLZI3Lx8UgKaImKCGh-21">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-15" target="m-QLZI3Lx8UgKaImKCGh-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-15" value="生成老用户金币随机范围" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-15" value="生成老用户金币随机范围" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="600" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-25" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-21" target="m-QLZI3Lx8UgKaImKCGh-30">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-25" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-21" target="m-QLZI3Lx8UgKaImKCGh-30">
+          <mxGeometry x="-0.7313" relative="1" as="geometry">
             <mxPoint x="240" y="1080" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="990" />
               <mxPoint x="240" y="1390" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-26" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-21" target="m-QLZI3Lx8UgKaImKCGh-27">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-26" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-21" target="m-QLZI3Lx8UgKaImKCGh-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="1080" as="targetPoint" />
             <Array as="points">
@@ -81,22 +82,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-21" value="是否已领取金币" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-21" value="是否已领取金币" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="310" y="930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-27" target="m-QLZI3Lx8UgKaImKCGh-28">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-27" target="m-QLZI3Lx8UgKaImKCGh-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-27" value="根据金币随机范围生成领取金币数" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-27" value="根据金币随机范围生成领取金币数" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="400" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-28" target="m-QLZI3Lx8UgKaImKCGh-30">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#736CA8;" edge="1" parent="1" source="m-QLZI3Lx8UgKaImKCGh-28" target="m-QLZI3Lx8UgKaImKCGh-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-28" value="在 Redis 存储以 UserID 关联的到明日凌晨结束的倒计时值" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-28" value="在 Redis 存储以 UserID 关联的到明日凌晨结束的倒计时值" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="400" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-QLZI3Lx8UgKaImKCGh-30" value="End" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="m-QLZI3Lx8UgKaImKCGh-30" value="End" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="420" y="1350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
