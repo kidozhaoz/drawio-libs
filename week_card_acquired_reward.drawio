@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T02:48:13.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Q4Uz63-DYfXRfPOECx4q" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T03:00:40.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dPmm167ztio8IQd_fS5B" version="24.2.3" type="github">
   <diagram name="Page-1" id="uZO5wta7VgLoH98T9EKO">
     <mxGraphModel dx="1434" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-1" target="dfrxhbNRFuG1TWJueZY8-4">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-1" target="dfrxhbNRFuG1TWJueZY8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="365" y="20" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-7" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-4" target="dfrxhbNRFuG1TWJueZY8-6">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-7" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-4" target="dfrxhbNRFuG1TWJueZY8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-32" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-4" target="dfrxhbNRFuG1TWJueZY8-26">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-32" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-4" target="dfrxhbNRFuG1TWJueZY8-26">
           <mxGeometry x="-0.9609" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="220" />
@@ -22,13 +22,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-4" value="周卡类型以否满足已有的周卡配置" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-4" value="周卡类型以否满足已有的周卡配置" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="385" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-9" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-6" target="dfrxhbNRFuG1TWJueZY8-8">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-9" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-6" target="dfrxhbNRFuG1TWJueZY8-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-31" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-6" target="dfrxhbNRFuG1TWJueZY8-26">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-31" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-6" target="dfrxhbNRFuG1TWJueZY8-26">
           <mxGeometry x="-0.9412" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="380" />
@@ -37,19 +37,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-6" value="是否已领取&lt;br&gt;周卡奖励（Redis 缓存）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-6" value="是否已领取&lt;br&gt;周卡奖励（Redis 缓存）" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="385" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-8" target="dfrxhbNRFuG1TWJueZY8-10">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-8" target="dfrxhbNRFuG1TWJueZY8-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-8" value="加载当前用户&lt;br&gt;的周卡配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-8" value="加载当前用户&lt;br&gt;的周卡配置" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="365" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-13" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-10" target="dfrxhbNRFuG1TWJueZY8-12">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-13" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-10" target="dfrxhbNRFuG1TWJueZY8-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-30" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-10" target="dfrxhbNRFuG1TWJueZY8-26">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-30" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-10" target="dfrxhbNRFuG1TWJueZY8-26">
           <mxGeometry x="-0.9587" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="300" y="680" />
@@ -58,25 +58,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-10" value="用户是否有&lt;br&gt;周卡配置" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-10" value="用户是否有&lt;br&gt;周卡配置" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="385" y="640" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-12" target="dfrxhbNRFuG1TWJueZY8-14">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-12" target="dfrxhbNRFuG1TWJueZY8-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-12" value="查找用户当前周卡配置和可领取的最高周卡配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-12" value="查找用户当前周卡配置和可领取的最高周卡配置" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="365" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-14" target="dfrxhbNRFuG1TWJueZY8-16">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-14" target="dfrxhbNRFuG1TWJueZY8-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-14" value="从玩家背包中加载周卡道具" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-14" value="从玩家背包中加载周卡道具" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="365" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-19" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-16" target="dfrxhbNRFuG1TWJueZY8-18">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-19" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-16" target="dfrxhbNRFuG1TWJueZY8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-29" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-16" target="dfrxhbNRFuG1TWJueZY8-26">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-29" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-16" target="dfrxhbNRFuG1TWJueZY8-26">
           <mxGeometry x="-0.8961" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="1120" />
@@ -85,13 +85,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-16" value="背包中是否&lt;br&gt;存在周卡" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-16" value="背包中是否&lt;br&gt;存在周卡" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="385" y="1080" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-23" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-18" target="dfrxhbNRFuG1TWJueZY8-22">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-23" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-18" target="dfrxhbNRFuG1TWJueZY8-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-28" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-18" target="dfrxhbNRFuG1TWJueZY8-26">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-28" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-18" target="dfrxhbNRFuG1TWJueZY8-26">
           <mxGeometry x="-0.9026" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="1280" />
@@ -100,22 +100,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-18" value="周卡道具信息是否正确（类型正确且未过期）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-18" value="周卡道具信息是否正确（类型正确且未过期）" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="385" y="1240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-22" target="dfrxhbNRFuG1TWJueZY8-24">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-22" target="dfrxhbNRFuG1TWJueZY8-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-22" value="设置周已领取的Redis缓存，明日0时过期" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-22" value="设置周已领取的Redis缓存，明日0时过期" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="365" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-24" target="dfrxhbNRFuG1TWJueZY8-26">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="dfrxhbNRFuG1TWJueZY8-24" target="dfrxhbNRFuG1TWJueZY8-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-24" value="返回刚点周卡可领取的金币额" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-24" value="返回刚点周卡可领取的金币额" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="365" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dfrxhbNRFuG1TWJueZY8-26" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dfrxhbNRFuG1TWJueZY8-26" value="End" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="385" y="1680" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
